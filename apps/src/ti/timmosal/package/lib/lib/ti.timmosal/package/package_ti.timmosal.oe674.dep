@@ -1,0 +1,10 @@
+package/lib/lib/ti.timmosal/package/package_ti.timmosal.oe674: package/package_ti.timmosal.c /home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/xdc/std.h package/package.bld.c /home/nadagill/project/ezsdk/dsp-devkit/cgt6x_7_3_4/include/stdarg.h /home/nadagill/project/ezsdk/dsp-devkit/cgt6x_7_3_4/include/stddef.h /home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h /home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h /home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h /home/nadagill/project/ezsdk/dsp-devkit/cgt6x_7_3_4/include/stdint.h 
+package/package_ti.timmosal.c:
+/home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/xdc/std.h:
+package/package.bld.c:
+/home/nadagill/project/ezsdk/dsp-devkit/cgt6x_7_3_4/include/stdarg.h:
+/home/nadagill/project/ezsdk/dsp-devkit/cgt6x_7_3_4/include/stddef.h:
+/home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h:
+/home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h:
+/home/nadagill/project/ezsdk/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h:
+/home/nadagill/project/ezsdk/dsp-devkit/cgt6x_7_3_4/include/stdint.h:

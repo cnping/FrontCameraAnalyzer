@@ -1,0 +1,7 @@
+---- DECODER_VIDEO_INDICATOR Matches (6 in 3 files) ----
+Decoder.c (src):    GpioExport(DECODER_VIDEO_INDICATOR);
+Decoder.c (src):    GpioSetDirection(DECODER_VIDEO_INDICATOR, 1);
+Decoder.c (src):    GpioSetValue(DECODER_VIDEO_INDICATOR, 0);
+Manager.c (src):        GpioSetValue(DECODER_VIDEO_INDICATOR, 0);
+Manager.c (src):            GpioSetValue(DECODER_VIDEO_INDICATOR, 1);
+Manager.h (src):#define DECODER_VIDEO_INDICATOR             59
